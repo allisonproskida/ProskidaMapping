@@ -1,3 +1,4 @@
-response = "python code here"
+if __name__=="__main__":
 
-return response
+  response = "python code here"
+  response
